@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-int sum(int a, int b);
+int sum(int a, int b, int c);
 
 int main() {
 	int l;
@@ -15,7 +15,7 @@ int main() {
 	cout << "Bo 123321 @_@";
 
 	cout << "OOO";
-	cout << sum(1, 22) << endl;
+	cout << sum(1, 22, 213) << endl;
 
 	return 0;
 }
